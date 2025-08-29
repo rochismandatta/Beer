@@ -1,3 +1,4 @@
+
 # Beer Rating App (v1.1.1 — corrected)
 
 - **Mobile app:** Expo React Native
